@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="btnCompute">Compute</string>
+</resources>
